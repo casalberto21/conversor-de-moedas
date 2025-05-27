@@ -39,7 +39,7 @@ Se preferir, você pode usar um arquivo local JSON para simular a resposta da AP
 
 ---
 
-## git clone https://github.com/seuusuario/conversor-moedas.git
+## git clone https://github.com/casalberto21/conversor-de-moedas
 Importe o projeto no IntelliJ.
 Adicione sua API_KEY como variável de ambiente.
 Rode a classe com o método main().
